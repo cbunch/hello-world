@@ -1,5 +1,5 @@
 # hello-world
-hello world tutorial
+hello world tutorial for CSC 430
 
 Computer Science student
 27 years old
